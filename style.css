@@ -41,12 +41,6 @@ body {
 	border-top-left-radius: 20px;
 }
 
-/* .card-img-container img {
-	border-top-right-radius: 20px;
-	border-top-left-radius: 20px;
-	width: 100%;
-} */
-
 .card-info-container {
 	padding-left: 20px;
 }
@@ -100,8 +94,3 @@ body {
 	background-position: center;
 	border-radius: 50%;
 }
-
-/* .card-profile .picture img {
-	border-radius: 50%;
-	width: 100%;
-} */
